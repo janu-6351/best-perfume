@@ -1,0 +1,25 @@
+.navbar{
+    background-color: #107E10;
+}
+.background-image{
+    background-image: url('c:/sem 3/WT/web img/login-img.jpg');
+    background-size: cover; 
+    background-position: center; 
+    height:100%;
+    width:100%;
+  }
+  .card{
+    margin-top: 230px;
+    margin-bottom: 100px;
+    height: auto;
+    background-color: rgb(206, 223, 243);
+  }
+  label { font-weight: bold; margin-top: 5px; display: block; color: #000000; font-size: 15px;
+    }
+    input, select, textarea { width: 100%; padding: 8px; margin: 8px 0; border: 1px solid #ccc; border-radius: 5px; box-sizing: border-box; transition: all 0.3s ease; }
+    input[type="radio"] { width: auto;
+    }
+    input:focus, select:focus, textarea:focus { border-color: #0004ff; outline: none;
+    }
+  .error { color: red; font-size: 12px; margin-top: -5px; margin-bottom: 10px; display: block;
+    }
